@@ -21,7 +21,7 @@ rootProject.allprojects {
     }
 }
 
-apply plugin: 'com.cygnati.social_share_plugin'
+apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
